@@ -4,8 +4,6 @@ import org.junit.jupiter.api.Test;
 import ru.netology.classes.book.Book;
 import ru.netology.classes.Product;
 import ru.netology.classes.smartphone.Smartphone;
-import org.junit.jupiter.api.BeforeEach;
-import ru.netology.repository.Repository;
 
 import static org.junit.jupiter.api.Assertions.*;
 
